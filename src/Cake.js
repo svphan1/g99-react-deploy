@@ -12,17 +12,17 @@ const Cake = () => {
       <div className="drip drip2" />
       <div className="drip drip3" />
       <div className="candle candle1">
-      g
+      S
         <div className="flame" />
         <div className="flame inner-flame" />
       </div>
       <div className="candle candle2">
-      9
+      o
         <div className="flame" />
         <div className="flame inner-flame" />
       </div>
       <div className="candle candle3">
-      9
+      n
         <div className="flame" />
         <div className="flame inner-flame" />
       </div>
