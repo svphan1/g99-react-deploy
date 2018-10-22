@@ -1,6 +1,6 @@
 # Deploying a React app with Surge
 
-1. Install surge
+1. Make sure you have surge install globally
  - `npm install -g surge`
 
 2. Run the Create React App build
@@ -13,3 +13,6 @@
 4. Run surge
  - `surge`
 
+## Technologies
+ - React built with Create-React-App
+ - CSS Animation adapted from [this pen by Mark Thomes](https://codepen.io/WithAnEs/pen/OVZRvg)
